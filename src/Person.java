@@ -11,7 +11,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" + name + " " + surname + " age =" + age + "}";
+        return "Person{" + name + " " + surname + " возраст = " + age + "}";
     }
 
     public String getName() {
